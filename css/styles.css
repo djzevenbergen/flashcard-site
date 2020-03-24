@@ -1,0 +1,45 @@
+body {
+    background-color:teal;
+}
+
+.jumbotron {
+    margin: 20px;
+    text-align: center;
+}
+.intially-visible h1 {
+    justify-content: center;
+}
+.initially-hidden {
+    display: none;
+}
+
+.initially-hidden .p {
+    text-align: left;
+    justify-content: left;
+}
+
+.panel-body {
+    height: 150px;
+}
+.panel-body:hover {
+    background-color: #ddae36;
+}
+
+#button {
+    background-color: goldenrod;
+    padding: 15px 32px;
+    border-radius: 4px;
+    text-align: center;
+    width: 100%;
+    margin: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#button:hover {
+    background-color: #ddae36;
+}
+
+.green-background {
+  background-color: green;
+}
